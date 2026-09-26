@@ -1,0 +1,6 @@
+{
+  "name": "HA Trader Trading Academy",
+  "description": "Professional financial market education, interactive trading simulator, real-time trade signals, and smart money mentorship platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
